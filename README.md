@@ -16,15 +16,19 @@
 
 ---
 
-### 🔭 Featured Projects
-- 📦 **[InvenHub - Inventory Management System](https://inven-hub.vercel.app/)**  
-  *Flask, SQLite, Python* – Real-time stock tracking, automated billing, and **90%+ accurate SARIMAX sales forecasting**.  
+### 🏗️ Projects
 
-- 🔑 **[Voice Biometric Authentication API](https://voice-recognition-api.onrender.com/)**  
-  *FastAPI, TensorFlow, MFCC + Embeddings* – Verifies user identity through voice with **90% accuracy**.  
-
-- 👤 **Person Recognition System**  
-  *OpenCV, TensorFlow, YOLOv3* – Achieved **95% accuracy** in real-world environments for security and automated attendance.  
+| Project                            | Status       | Type                                  | GitHub                                                                                   |
+| ---------------------------------- | ------------ | ------------------------------------- | ---------------------------------------------------------------------------------------- |
+| SalesVision V2                     | 🟠 Paused    | AI Forecasting API                    | [Link](https://github.com/debjyoti71/SalesVision_v2)                                     |
+| InvenHub                           | 🟠 Paused    | Inventory & Billing System            | [Link](https://github.com/debjyoti71/InvenHub)                                           |
+| AiDVerify                          | 🟠 Paused    | AI Fraud Detection / NGO Verification | ngo_claim_verifier fastapi-face-recognition-2                                            |
+| Voice Recognition System           | 🟠 Paused    | Biometric / Security                  | [Link](https://github.com/debjyoti71/voice_recognition_api)                              |
+| Counterspeech & Outcome Prediction | 🟠 Paused    | AI Moderation / NLP                   | [Link](https://github.com/debjyoti71/AI-Counterspeech-Outcome-Prediction-For-HateSpeach) |
+| MediRecord                         | 🔵 Future    | Healthcare + AI Assistant             | [Link TBD]                                                                               |
+| Agentic AI Core                    | 🔵 Future    | AI Reasoning Module                   | [Link TBD]                                                                               |
+| Zig Zag Car Game                   | 🟢 Completed | Game / Unity                          | [Link](https://github.com/debjyoti71/car-zig-zag)                                        |
+| War Arena                          | 🔵 Future    | RTS Multiplayer Game                  | war_arena_1st_draft.docx                                                                 |
 
 ---
 
