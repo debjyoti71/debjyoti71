@@ -40,7 +40,6 @@ I enjoy taking projects end-to-end: understanding the problem, testing approache
 
 ## 🧭 What I Work On
 
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -96,7 +95,6 @@ I enjoy taking projects end-to-end: understanding the problem, testing approache
 <tr>
 <td width="50%" valign="top">
 
-
 ### 📦 [InvenHub](https://github.com/debjyoti71/invenhub_NextAI)
 Inventory management with data-driven workflows and an AI-assisted direction.
 
@@ -106,7 +104,6 @@ Inventory management with data-driven workflows and an AI-assisted direction.
 
 </td>
 <td width="50%" valign="top">
-
 
 ### 📈 [SalesVision](https://github.com/debjyoti71/SalesVision)
 Sales prediction and forecasting experiments using machine learning and time-series approaches.
@@ -120,7 +117,6 @@ Sales prediction and forecasting experiments using machine learning and time-ser
 <tr>
 <td width="50%" valign="top">
 
-
 ### 🎭 [Deepfake Detection](https://github.com/debjyoti71/deepfake_detection)
 A computer-vision research project exploring detection of manipulated media.
 
@@ -130,7 +126,6 @@ A computer-vision research project exploring detection of manipulated media.
 
 </td>
 <td width="50%" valign="top">
-
 
 ### 🗣️ [Voice Recognition API](https://github.com/debjyoti71/voice_recognition_api)
 API-oriented voice recognition and speaker-classification work.
@@ -144,7 +139,6 @@ API-oriented voice recognition and speaker-classification work.
 <tr>
 <td width="50%" valign="top">
 
-
 ### ⚽ [Sports Player Re-Identification](https://github.com/debjyoti71/Re-Identification_Sports_Footage)
 A computer-vision project focused on identifying and tracking players across sports footage.
 
@@ -152,7 +146,6 @@ A computer-vision project focused on identifying and tracking players across spo
 
 </td>
 <td width="50%" valign="top">
-
 
 ### 🧩 [Dev Timekeeper](https://github.com/debjyoti71/time_extension)
 A developer productivity extension for Visual Studio Code.
@@ -166,7 +159,6 @@ A developer productivity extension for Visual Studio Code.
 <tr>
 <td width="50%" valign="top">
 
-
 ### ⚖️ [Elaina Legal AI](https://github.com/debjyoti71/Elaina_Legal_Ai)
 An AI-oriented legal workflow project involving structured information and application logic.
 
@@ -174,7 +166,6 @@ An AI-oriented legal workflow project involving structured information and appli
 
 </td>
 <td width="50%" valign="top">
-
 
 ### 🚗 [GaadiDiary](https://github.com/debjyoti71/GaadiDiary)
 A personal vehicle and trip-tracking application.
