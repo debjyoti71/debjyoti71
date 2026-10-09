@@ -1,35 +1,24 @@
 <!--
-  GitHub Profile README
-  Repository: https://github.com/debjyoti71/debjyoti71
-  Personal website: https://www.debjyoti-ghosh.in/
+  GitHub Profile README — Debjyoti Ghosh
+  Focus: AI/ML · Cybersecurity · Research · Backend Engineering
 -->
 
 <div align="center">
 
 <a href="https://www.debjyoti-ghosh.in/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=220&section=header&text=Debjyoti%20Ghosh&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Security%20%7C%20Machine%20Learning%20%7C%20Backend%20Engineering&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Debjyoti Ghosh — AI Security Researcher and ML Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:172554,100:0891B2&height=230&section=header&text=Debjyoti%20Ghosh&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Research%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Debjyoti Ghosh — AI/ML, cybersecurity, research, and backend engineering"/>
 </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=55&lines=Building+AI+Systems+That+Solve+Real+Problems;Exploring+Trustworthy+AI+%26+LLM+Security;Researching+Deepfakes+%26+Voice+Biometrics;Turning+Ideas+Into+Working+Software" alt="Animated introduction"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=48&lines=Engineering+useful%2C+measurable+AI+systems;Building+secure+backend+and+cybersecurity+platforms;Exploring+multimodal+learning+and+trustworthy+AI;From+research+ideas+to+working+software" alt="Animated engineering focus"/>
 </a>
 
-<br/>
-
-<a href="https://www.debjyoti-ghosh.in/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/debjyoti-ghosh-508bba281/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:debjyoti1ghosh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/debjyoti71">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
+<p>
+  <a href="https://www.debjyoti-ghosh.in/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/debjyoti-ghosh-508bba281/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:debjyoti1ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/debjyoti71"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=debjyoti71&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" alt="Profile views"/>
 
@@ -37,80 +26,67 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Hey! I'm **Debjyoti Ghosh**, an AI/ML engineer and undergraduate researcher interested in building intelligent, secure, and reliable software systems.
+Hey, I'm **Debjyoti Ghosh** — a fourth-year B.Tech Computer Science and Information Technology student at **UEM Kolkata** interested in building intelligent, secure, and dependable software.
 
-I work at the intersection of **Artificial Intelligence, Cybersecurity, Machine Learning Research, and Backend Engineering**. My interests include multimodal deepfake detection, voice biometrics, trustworthy AI, agentic systems, LLM security, and scalable backend infrastructure.
+My work spans **AI/ML, cybersecurity engineering, applied research, and backend systems**. I like taking ideas beyond a notebook: shaping data pipelines, building APIs, integrating models, and thinking carefully about reliability and deployment.
 
-I enjoy taking an idea from research and experimentation to a working application, API, or deployable system.
+- 🎓 B.Tech in Computer Science and Information Technology — UEM Kolkata (expected 2027)
+- 🔬 Research interests: multimodal learning, deepfake detection, contextual NLP, and trustworthy AI
+- 🛡️ Engineering multi-tenant cyber threat monitoring and intelligence workflows
+- 🧠 Exploring agentic AI, retrieval-augmented generation, and Bayesian reasoning
+- 🏆 Recognized for multimodal deepfake detection research at IEEE INDICON 2025
+- 🧪 Completed Amazon ML Summer School 2025
 
-- 🎓 Pursuing a B.Tech in Computer Science and Information Technology at UEM Kolkata.
-- 🔬 Research interests: AI security, multimodal learning, media forensics, and trustworthy AI.
-- 🛡️ Engineering experience with cybersecurity platforms, asynchronous data pipelines, and AI-powered applications.
-- 🧠 Exploring agentic AI, retrieval-augmented generation, hybrid memory, and Bayesian reasoning.
-- 🏆 Recognized for multimodal deepfake detection research at IEEE INDICON 2025.
-- 🧩 Published a developer productivity extension for Visual Studio Code.
-- 🤝 Open to AI/ML engineering opportunities, research collaborations, and interesting open-source projects.
-
-> My goal is to build AI systems that are not just intelligent, but also useful, measurable, secure, and dependable.
-
-🌐 **Portfolio:** [www.debjyoti-ghosh.in](https://www.debjyoti-ghosh.in/)
+> I aim to build systems that are not only intelligent, but also useful, measurable, secure, and maintainable.
 
 ---
 
-## 🧭 What I Work On
+## Focus Areas
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence & ML
-
-- Machine learning and deep learning
-- NLP and context-aware text classification
-- LLM applications and agentic workflows
-- Retrieval-augmented generation
-- Bayesian Neural Networks
+### 🤖 AI / Machine Learning
+- Supervised and unsupervised learning
+- Deep learning, NLP, and time-series forecasting
+- LLM applications and retrieval-augmented generation
 - Model evaluation and experimentation
+- Computer vision and multimodal learning
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ AI Security & Digital Forensics
-
-- Multimodal deepfake detection
-- Audio-visual representation learning
-- Voice biometrics and anti-spoofing
-- LLM security and trustworthy AI
-- Cyber threat intelligence pipelines
-- Security-oriented backend systems
+### 🛡️ Cybersecurity
+- Threat intelligence and alert processing
+- Attack surface and third-party risk monitoring
+- Brand abuse and identity-related signals
+- Tenant-scoped services and access control
+- Security-minded AI system design
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend & Systems Engineering
-
-- Python APIs with FastAPI and Flask
-- Django and Django REST Framework
-- PostgreSQL and data modeling
-- Asynchronous processing with asyncio
-- WebSockets and event-driven workflows
-- Multi-tenant architecture and RBAC
+### 🔬 Research
+- Multimodal deepfake detection
+- Voice biometrics and audio features
+- Context-aware hate-speech detection
+- Trustworthy AI and model validation
+- Reproducible experiments and evaluation
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Applied AI Engineering
-
-- Model serving and integration
-- Structured extraction and validation
-- Semantic search and embeddings
-- OCR and document processing
-- Cloud deployment and Docker
-- End-to-end AI product development
+### ⚙️ Backend Engineering
+- FastAPI, Flask, Django, and Django REST Framework
+- REST APIs and WebSocket communication
+- PostgreSQL, SQLite, and data modeling
+- Async workflows and background processing
+- Docker and cloud deployment
 
 </td>
 </tr>
@@ -118,351 +94,160 @@ I enjoy taking an idea from research and experimentation to a working applicatio
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎭 Multimodal Deepfake Detection</h3>
+### 🛡️ ThreatPurge
+A multi-tenant threat monitoring platform built around security intelligence workflows.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Research-IEEE%20INDICON%202025-2563EB?style=flat-square" alt="IEEE INDICON 2025"/>
-</div>
+**Work areas**
+- Brand abuse, identity, TPRM, ASM, and IOC validation
+- Tenant-scoped architecture and RBAC
+- Watchlists, rules, executions, and normalized alerts
 
-A multimodal deepfake detection pipeline combining visual, temporal, and audio representations to identify manipulated media.
-
-**Highlights**
-- ResNet-50 visual features
-- BiLSTM temporal modeling
-- Audio feature extraction using Mel-spectrograms
-- Transformer-based cross-modal fusion
-- Phoneme-viseme synchronization analysis
-
-**Stack:** PyTorch · Transformers · OpenCV · Deep Learning
-
-<div align="center">
-  <a href="https://www.debjyoti-ghosh.in/">
-    <img src="https://img.shields.io/badge/Research%20%26%20Paper-View%20Portfolio-0EA5E9?style=for-the-badge" alt="Research details"/>
-  </a>
-</div>
+**Stack:** Django · Django REST Framework · PostgreSQL · JWT
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 DAVAI — Agentic AI Runtime</h3>
+### ⚖️ Elaina Legal AI
+An agent-first legal intelligence platform connecting client conversations, attorney workflows, and structured matter intelligence.
 
-An autonomous AI runtime exploring stateful agents, asynchronous execution, hybrid memory, and dynamic tool retrieval.
-
-**Highlights**
-- Event-driven execution architecture
-- Multi-model routing
-- Four-tier hybrid memory design
-- Dynamic Tool RAG
-- WebSocket-based streaming
-- Browser automation and OCR workflows
-
-**Stack:** Python · FastAPI · ChromaDB · SQLite · WebSockets
-
-<div align="center">
-  <a href="https://www.debjyoti-ghosh.in/">
-    <img src="https://img.shields.io/badge/Project%20Details-View%20Portfolio-0EA5E9?style=for-the-badge" alt="DAVAI details"/>
-  </a>
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🗣️ Voice Biometric Verification</h3>
-
-A voice-based authentication system combining audio feature extraction, speaker recognition, and backend inference.
-
-**Highlights**
-- MFCC and spectral features
-- Speaker verification
-- Edge-to-cloud architecture
-- FastAPI inference service
-- Evaluation of noise and spoofing vulnerabilities
-
-**Stack:** Python · Librosa · Scikit-learn · FastAPI
-
-<div align="center">
-  <a href="https://www.debjyoti-ghosh.in/">
-    <img src="https://img.shields.io/badge/Technical%20Details-View%20Portfolio-0EA5E9?style=for-the-badge" alt="Voice biometrics details"/>
-  </a>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">💬 Context-Aware Hate Speech Detection</h3>
-
-An NLP research project that models a social media post jointly with its comment to improve context-aware moderation.
-
-**Highlights**
-- Post-comment joint modeling
-- SBERT semantic similarity
-- DistilBERT-based text representations
-- Emotion-related features
-- Multi-class moderation decisions
-
-**Stack:** Python · PyTorch · SBERT · DistilBERT · Scikit-learn
-
-<div align="center">
-  <a href="https://www.debjyoti-ghosh.in/">
-    <img src="https://img.shields.io/badge/Paper%20%26%20Details-View%20Portfolio-0EA5E9?style=for-the-badge" alt="NLP research details"/>
-  </a>
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">⚖️ Elaina Legal AI</h3>
-
-An AI-powered legal intelligence platform designed around client conversations, attorney workflows, structured matter state, and background intelligence processing.
-
-**Highlights**
-- Client and attorney experiences
-- Structured fact extraction
-- Semantic retrieval and long-term memory
-- AI tool-calling workflows
-- Background analysis and validation
-- Bayesian reasoning integration
+**Work areas**
+- Client and attorney chat experiences
+- Structured fact extraction and validation
+- Matter state, retrieval, and tool workflows
+- Fast-response chat separated from background analysis
 
 **Stack:** Python · Django · WebSockets · LLMs · BNN
 
-<div align="center">
-  <a href="https://www.debjyoti-ghosh.in/">
-    <img src="https://img.shields.io/badge/Project%20Overview-View%20Portfolio-0EA5E9?style=for-the-badge" alt="Elaina overview"/>
-  </a>
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 Multimodal Deepfake Detection
+Research work focused on identifying manipulated media by combining information across modalities.
+
+**Work areas**
+- Visual and temporal feature analysis
+- Audio features and cross-modal signals
+- Model evaluation for media forensics
+
+**Recognition:** IEEE INDICON 2025
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛡️ ThreatPurge</h3>
+### 📈 InvenHub + SalesVision
+Inventory management and AI-assisted sales forecasting, bringing operational data and predictive modeling together.
 
-A cybersecurity platform for threat monitoring and intelligence workflows, with a focus on scalable backend services and data processing.
+**Work areas**
+- Inventory and sales data workflows
+- Time-series forecasting experiments
+- ML-based prediction and backend APIs
 
-**Highlights**
-- Threat intelligence pipelines
-- Brand abuse monitoring
-- Asynchronous ETL processing
-- API and database optimization
-- Multi-tenant application architecture
-- Alert processing workflows
+**Stack:** Python · Flask · Pandas · Scikit-learn
 
-**Stack:** Python · FastAPI · PostgreSQL · asyncio
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  <a href="https://www.debjyoti-ghosh.in/">
-    <img src="https://img.shields.io/badge/Engineering%20Overview-View%20Portfolio-0EA5E9?style=for-the-badge" alt="ThreatPurge overview"/>
-  </a>
-</div>
+### 🗣️ Voice Biometric Authentication
+A voice authentication prototype built around audio feature extraction and speaker classification.
+
+**Work areas**
+- MFCC and spectral features
+- Speaker verification experiments
+- API-based inference and edge-device integration
+
+**Stack:** Python · TensorFlow · Scikit-learn · FastAPI
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Dev Timekeeper
+An offline-first VS Code extension focused on developer time tracking and productivity.
+
+**Work areas**
+- Local-first tracking
+- Editor-integrated workflow
+- Developer productivity insights
+
+<a href="https://open-vsx.org/extension/DebjyotiGhosh/dev-timekeeper"><img src="https://img.shields.io/badge/Open%20VSX-Extension-0EA5E9?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Open VSX extension"/></a>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://www.debjyoti-ghosh.in/">
-  <img src="https://img.shields.io/badge/Explore-More%20Projects-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/debjyoti71?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-View%20Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+</p>
 
 ---
 
-## 🧪 Research & Publications
+## Research Interests
 
-My research interests center on trustworthy AI, multimodal learning, and intelligent systems that can be evaluated beyond simple demonstrations.
-
-| Research area | Focus |
+| Area | Current interests |
 |---|---|
-| 🎭 Multimodal Deepfake Detection | Audio-visual fusion, temporal representations, and synchronization analysis |
-| 🗣️ Voice Biometrics | Speaker verification, audio features, and anti-spoofing |
-| 💬 Context-Aware NLP | Joint post-comment modeling for moderation and contextual understanding |
-| 🧠 Agentic AI Systems | Tool retrieval, hybrid memory, asynchronous execution, and model orchestration |
-| 🛡️ Trustworthy AI | Security, validation, reliability, and responsible system design |
-
-**Research recognition:** Multimodal Deepfake Detection — IEEE INDICON 2025.
-
-📄 [Explore my research and publications](https://www.debjyoti-ghosh.in/)
+| Multimodal AI | Cross-modal representations, temporal signals, and media forensics |
+| Voice Biometrics | Speaker verification, audio features, and spoofing robustness |
+| Context-aware NLP | Modeling the relationship between posts and comments |
+| Trustworthy AI | Validation, reliability, security, and evaluation |
+| Agentic Systems | Tool use, retrieval, memory, and orchestration |
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js,ts,bash" alt="Programming languages"/>
+<p align="center">
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts" alt="Python, C, C++, C sharp, Java, JavaScript, TypeScript"/>
 </p>
 
-### AI, Machine Learning & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="Machine learning tools"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<p align="center">
+  <strong>AI / ML / Data</strong><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Librosa-Audio%20Analysis-7C3AED?style=flat-square" alt="Librosa"/>
-  <img src="https://img.shields.io/badge/BNN-Bayesian%20Neural%20Networks-0891B2?style=flat-square" alt="Bayesian neural networks"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-### Backend, Databases & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,sqlite,docker" alt="Backend and databases"/>
-  <img src="https://img.shields.io/badge/REST-APIs-009688?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/WebSockets-Real--Time%20Systems-2563EB?style=flat-square" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/asyncio-Asynchronous%20Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="asyncio"/>
-</p>
-
-### Cloud, Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,vercel" alt="Development and cloud tools"/>
-  <img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
-</p>
-
-### Areas I'm Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" alt="Retrieval augmented generation"/>
-  <img src="https://img.shields.io/badge/LLM%20Security-B91C1C?style=flat-square" alt="LLM security"/>
-  <img src="https://img.shields.io/badge/Hybrid%20Memory-4338CA?style=flat-square" alt="Hybrid memory"/>
-  <img src="https://img.shields.io/badge/Event--Driven%20Systems-0F766E?style=flat-square" alt="Event-driven systems"/>
+<p align="center">
+  <strong>Backend / Data / Cloud</strong><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,sqlite,docker,aws,git,github,linux,vscode" alt="FastAPI, Flask, Django, PostgreSQL, SQLite, Docker, AWS, Git, GitHub, Linux, VS Code"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Recognition
+## GitHub Activity
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=debjyoti71&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=38BDF8" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjyoti71&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
+</div>
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 📰 IEEE INDICON 2025
-
-Recognition for multimodal deepfake detection research.
-
-</td>
-<td align="center" width="50%">
-
-### 🎓 Amazon ML Summer School 2025
-
-Selected participant in Amazon's machine learning learning program.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🥇 Robotics Competitions
-
-Multiple placements across robotics events, including URECKON competitions.
-
-</td>
-<td align="center" width="50%">
-
-### 🧑‍💻 Developer Tools
-
-Published the AntiGravity (Dev Timekeeper) VS Code extension, with over 1,300 Open VSX downloads reported on my portfolio.
-
-</td>
-</tr>
-</table>
-
-**Additional recognition:** CSI CreaXion, IEM HackOasis 2.0, and Srijan'25 Homecoming.
-
-🏅 [View achievements, certificates, and supporting details](https://www.debjyoti-ghosh.in/)
-
+<div align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=debjyoti71&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak"/>
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## Let's Connect
+
+I'm open to conversations about **AI/ML engineering, applied research, cybersecurity, and backend systems**.
+
+<p align="center">
+  <a href="https://www.debjyoti-ghosh.in/"><img src="https://img.shields.io/badge/Website-debjyoti--ghosh.in-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/debjyoti-ghosh-508bba281/"><img src="https://img.shields.io/badge/LinkedIn-Debjyoti%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:debjyoti1ghosh@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <div align="center">
-
-<a href="https://github.com/debjyoti71">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=debjyoti71&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/debjyoti71">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjyoti71&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most-used languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=debjyoti71&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debjyoti71&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🌱 Beyond the Code
-
-I enjoy exploring how research ideas can be transformed into useful tools, how backend architecture influences AI reliability, and how intelligent systems can become more secure and explainable.
-
-Outside my core research, I enjoy experimenting with developer productivity tools, computer vision, and software projects that connect AI with real-world applications.
-
-I'm always interested in collaborating with people who enjoy solving difficult technical problems and building things that matter.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Have a research idea, an interesting engineering problem, or a project worth building? Let's talk.**
-
-<br/>
-
-<a href="https://www.debjyoti-ghosh.in/">
-  <img src="https://img.shields.io/badge/Portfolio-debjyoti--ghosh.in-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/debjyoti-ghosh-508bba281/">
-  <img src="https://img.shields.io/badge/LinkedIn-Debjyoti%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/>
-
-<a href="https://www.kaggle.com/debjyoti6007">
-  <img src="https://img.shields.io/badge/Kaggle-Explore%20My%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-<a href="https://www.fiverr.com/sellers/debjyotighos360">
-  <img src="https://img.shields.io/badge/Fiverr-Freelance%20Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-</a>
-<a href="mailto:debjyoti1ghosh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/debjyoti71">
-  <img src="https://img.shields.io/github/followers/debjyoti71?label=Followers&style=social" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/debjyoti71?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=social&logo=github" alt="Explore repositories"/>
-</a>
-
-<br/><br/>
-
-*Building. Researching. Experimenting. Improving.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=120&section=footer" width="100%" alt="Decorative footer"/>
-
+  <sub>Designed with a dark navy and cyan palette · Balanced around AI, security, research, and engineering</sub>
 </div>
