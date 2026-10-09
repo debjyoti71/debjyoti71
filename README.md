@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/profile-hero.svg" width="100%" alt="Debjyoti Ghosh — AI systems, security, research"/>
+<img src="assets/Neon%20AI%20Lab_%20Building%20Tomorrow.png" width="100%" alt="Debjyoti Ghosh — AI engineer, researcher, and full-stack developer"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=650&color=22D3EE&center=true&vCenter=true&width=720&lines=Machine+Learning+%2B+Computer+Vision;Cybersecurity+%2B+Threat+Intelligence;LLM+Systems+%2B+Agentic+Workflows;Research+that+connects+models+to+systems" alt="Animated typing tagline" /></a>
 
