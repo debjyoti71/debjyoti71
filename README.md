@@ -40,7 +40,6 @@ I enjoy taking projects end-to-end: understanding the problem, testing approache
 
 ## 🧭 What I Work On
 
-<p align="center"><img width="100%" src="assets/card-ai.svg" alt="Animated AI engineering card"/></p>
 
 <table>
 <tr>
@@ -91,16 +90,12 @@ I enjoy taking projects end-to-end: understanding the problem, testing approache
 
 ## 🚀 Selected Projects
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:164E63&height=3&section=header" alt="Cyan project section divider"/>
-  <sub>Selected work across applied AI, research, security, and developer tooling</sub>
-</div>
+<p><em>Selected work across applied AI, research, security, and developer tooling.</em></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><img width="100%" src="assets/card-ai.svg" alt="Animated applied AI card"/></p>
 
 ### 📦 [InvenHub](https://github.com/debjyoti71/invenhub_NextAI)
 Inventory management with data-driven workflows and an AI-assisted direction.
@@ -112,7 +107,6 @@ Inventory management with data-driven workflows and an AI-assisted direction.
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><img width="100%" src="assets/card-ai.svg" alt="Animated machine learning card"/></p>
 
 ### 📈 [SalesVision](https://github.com/debjyoti71/SalesVision)
 Sales prediction and forecasting experiments using machine learning and time-series approaches.
@@ -126,7 +120,6 @@ Sales prediction and forecasting experiments using machine learning and time-ser
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><img width="100%" src="assets/card-research.svg" alt="Animated research card"/></p>
 
 ### 🎭 [Deepfake Detection](https://github.com/debjyoti71/deepfake_detection)
 A computer-vision research project exploring detection of manipulated media.
@@ -138,7 +131,6 @@ A computer-vision research project exploring detection of manipulated media.
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><img width="100%" src="assets/card-research.svg" alt="Animated voice research card"/></p>
 
 ### 🗣️ [Voice Recognition API](https://github.com/debjyoti71/voice_recognition_api)
 API-oriented voice recognition and speaker-classification work.
@@ -152,7 +144,6 @@ API-oriented voice recognition and speaker-classification work.
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><img width="100%" src="assets/card-research.svg" alt="Animated computer vision research card"/></p>
 
 ### ⚽ [Sports Player Re-Identification](https://github.com/debjyoti71/Re-Identification_Sports_Footage)
 A computer-vision project focused on identifying and tracking players across sports footage.
@@ -162,7 +153,6 @@ A computer-vision project focused on identifying and tracking players across spo
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><img width="100%" src="assets/card-systems.svg" alt="Animated developer tools card"/></p>
 
 ### 🧩 [Dev Timekeeper](https://github.com/debjyoti71/time_extension)
 A developer productivity extension for Visual Studio Code.
@@ -176,7 +166,6 @@ A developer productivity extension for Visual Studio Code.
 <tr>
 <td width="50%" valign="top">
 
-<p align="center"><img width="100%" src="assets/card-systems.svg" alt="Animated AI systems card"/></p>
 
 ### ⚖️ [Elaina Legal AI](https://github.com/debjyoti71/Elaina_Legal_Ai)
 An AI-oriented legal workflow project involving structured information and application logic.
@@ -186,7 +175,6 @@ An AI-oriented legal workflow project involving structured information and appli
 </td>
 <td width="50%" valign="top">
 
-<p align="center"><img width="100%" src="assets/card-systems.svg" alt="Animated backend systems card"/></p>
 
 ### 🚗 [GaadiDiary](https://github.com/debjyoti71/GaadiDiary)
 A personal vehicle and trip-tracking application.
@@ -237,12 +225,8 @@ A personal vehicle and trip-tracking application.
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=debjyoti71&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=38BDF8" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjyoti71&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
-</div>
-
-<div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=debjyoti71&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub contribution streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=debjyoti71&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1" alt="GitHub statistics"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjyoti71&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
 </div>
 
 ## 🤝 Connect
