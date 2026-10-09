@@ -3,10 +3,12 @@
 <div align="center">
 
 <a href="https://www.debjyoti-ghosh.in/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:172554,100:0891B2&height=230&section=header&text=Debjyoti%20Ghosh&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Research%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&descSize=15&animation=fadeIn" alt="Debjyoti Ghosh — AI/ML, cybersecurity, research, and backend engineering"/>
+  <img width="100%" src="assets/profile-hero.svg" alt="Debjyoti Ghosh — custom animated AI, cybersecurity, and backend engineering banner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=48&lines=Building+useful%2C+measurable+AI+systems;Engineering+secure+backend+and+data+workflows;Exploring+multimodal+learning+and+trustworthy+AI;Turning+research+ideas+into+working+software" alt="Animated engineering focus"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=42&lines=Designing+AI+systems+with+real-world+utility;Building+secure+services+and+reliable+data+flows;Exploring+multimodal+learning+and+trustworthy+AI;Research+%E2%86%92+Engineering+%E2%86%92+Impact" alt="Animated engineering focus"/>
 
 <p>
   <a href="https://www.debjyoti-ghosh.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -86,6 +88,11 @@ I enjoy taking projects end-to-end: understanding the problem, testing approache
 </table>
 
 ## 🚀 Selected Projects
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:164E63&height=3&section=header" alt="Cyan project section divider"/>
+  <sub>Selected work across applied AI, research, security, and developer tooling</sub>
+</div>
 
 <table>
 <tr>
