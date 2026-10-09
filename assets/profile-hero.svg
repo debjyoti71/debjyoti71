@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Debjyoti Ghosh — AI systems and security engineering</title>
+  <desc id="desc">Dark navy technical banner with animated cyan signal paths, orbital nodes, and a clean typographic identity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B16"/><stop offset=".55" stop-color="#101D38"/><stop offset="1" stop-color="#062C3B"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#0891B2" stop-opacity=".36"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#93C5FD" stroke-opacity=".08" stroke-width="1"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="175" rx="240" ry="200" fill="url(#glow)" filter="url(#soft)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M690 62H830Q850 62 850 82V116H1040Q1060 116 1060 136V175H1180" stroke="#38BDF8" stroke-opacity=".38" stroke-width="1.5"/>
+    <path d="M720 294H810Q830 294 830 274V246H960Q980 246 980 226V204H1160" stroke="#2DD4BF" stroke-opacity=".4" stroke-width="1.5"/>
+    <path d="M780 25V70Q780 90 800 90H900" stroke="#38BDF8" stroke-opacity=".25"/>
+    <path d="M905 338V300Q905 282 923 282H1050" stroke="#2DD4BF" stroke-opacity=".3"/>
+    <path d="M670 180H735Q755 180 755 160V138H820" stroke="#38BDF8" stroke-opacity=".25"/>
+    <path d="M930 72V104M914 88H946" stroke="#67E8F9" stroke-opacity=".6"/>
+  </g>
+  <g fill="#67E8F9">
+    <circle cx="850" cy="62" r="3"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="116" r="3"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="830" cy="294" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="226" r="3"><animate attributeName="opacity" values="1;.3;1" dur="2.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="translate(930 180)" fill="none" stroke="#38BDF8">
+    <circle r="88" stroke-opacity=".15" stroke-width="1.2"/>
+    <circle r="66" stroke-opacity=".25" stroke-width="1.2" stroke-dasharray="3 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/></circle>
+    <circle r="44" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="1 7"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/></circle>
+    <path d="M-112 0H112M0-112V112" stroke-opacity=".12"/>
+    <circle r="10" fill="#0891B2" fill-opacity=".3" stroke="#67E8F9" stroke-width="1.5"/>
+  </g>
+  <path d="M0 326H1200" stroke="url(#edge)" stroke-width="2"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="72" y="118" fill="#7DD3FC" font-size="13" font-weight="700" letter-spacing="4">ENGINEERING • RESEARCH • SYSTEMS</text>
+    <text x="68" y="180" fill="#F8FAFC" font-size="56" font-weight="750" letter-spacing="-1.8">Debjyoti Ghosh</text>
+    <text x="72" y="220" fill="#CBD5E1" font-size="19">AI / ML  ·  Cybersecurity  ·  Backend Engineering</text>
+    <rect x="72" y="252" width="166" height="32" rx="16" fill="#0E7490" fill-opacity=".25" stroke="#22D3EE" stroke-opacity=".55"/>
+    <circle cx="90" cy="268" r="4" fill="#34D399"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="103" y="273" fill="#A5F3FC" font-size="12" font-weight="650" letter-spacing="1.1">BUILDING IN PUBLIC</text>
+  </g>
+</svg>
