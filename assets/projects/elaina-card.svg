@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+<title id="title">ELAINA LEGAL AI — AGENTIC AI</title><desc id="desc">Legal workflows • matter intelligence. Project card in a dark navy and cyan engineering visual style.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1020"/><stop offset="1" stop-color="#101D32"/></linearGradient><linearGradient id="shine"><stop stop-color="#A78BFA" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA" stop-opacity=".9"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#94A3B8" stroke-opacity=".06"/></pattern></defs>
+<rect x="1" y="1" width="638" height="298" rx="18" fill="url(#bg)" stroke="#A78BFA" stroke-opacity=".48" stroke-width="1.5"/><rect x="2" y="2" width="636" height="296" rx="17" fill="url(#grid)"/>
+<path d="M18 2 H622" stroke="url(#shine)" stroke-width="3"><animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/></path>
+<circle cx="548" cy="88" r="74" fill="#A78BFA" fill-opacity=".045"/><circle cx="548" cy="88" r="58" fill="none" stroke="#A78BFA" stroke-opacity=".14" stroke-dasharray="3 7"><animateTransform attributeName="transform" type="rotate" from="0 548 88" to="360 548 88" dur="45s" repeatCount="indefinite"/></circle>
+<g transform="translate(548 88)"><circle r="32" fill="#A78BFA" fill-opacity=".12" stroke="#A78BFA" stroke-width="2"/><path d="M-17 -10 H17 V11 H2 L-8 21 V11 H-17 Z" fill="none" stroke="#C4B5FD" stroke-width="2.5" stroke-linejoin="round"/><circle cx="-8" cy="0" r="2" fill="#C4B5FD"/><circle cy="0" r="2" fill="#C4B5FD"/><circle cx="8" cy="0" r="2" fill="#C4B5FD"/></g>
+<text x="28" y="38" fill="#A78BFA" font-family="monospace" font-size="12" font-weight="700" letter-spacing="2.2">02 / AGENTIC AI</text>
+<text x="28" y="156" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="750" letter-spacing=".2">ELAINA LEGAL AI</text>
+<text x="28" y="184" fill="#B8C6D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Legal workflows • matter intelligence</text>
+<rect x="27" y="222" width="586" height="1" fill="#64748B" fill-opacity=".3"/>
+<text x="28" y="252" fill="#A78BFA" font-family="monospace" font-size="12" font-weight="600" letter-spacing=".5">PYTHON  /  WEBSOCKETS  /  LLM</text>
+<text x="598" y="276" fill="#94A3B8" font-family="monospace" font-size="10" text-anchor="end">OPEN PROJECT ↗</text>
+</svg>
