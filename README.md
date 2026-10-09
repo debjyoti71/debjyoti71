@@ -2,82 +2,49 @@
 
 <div align="center">
 
-<img src="assets/profile-hero.svg" width="100%" alt="Debjyoti Ghosh — AI/ML, cybersecurity, research, backend engineering"/>
+<img src="assets/profile-hero.svg" width="100%" alt="Debjyoti Ghosh — applied AI, cybersecurity, research, and backend systems"/>
 
 <p>
-  <a href="https://www.debjyoti-ghosh.in/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/debjyoti-ghosh-508bba281/">LinkedIn</a> ·
-  <a href="https://github.com/debjyoti71?tab=repositories">Repositories</a> ·
+  <a href="https://www.debjyoti-ghosh.in/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/debjyoti-ghosh-508bba281/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/debjyoti71?tab=repositories">Projects</a> &nbsp;·&nbsp;
   <a href="mailto:debjyoti1ghosh@gmail.com">Contact</a>
 </p>
 
 </div>
 
-## Building intelligent systems that work beyond the demo.
+## I like building AI that survives contact with reality.
 
-I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at **UEM Kolkata** (class of 2027). My work sits across **applied AI, cybersecurity, research, and backend engineering**—from model experiments to APIs and production-minded workflows.
+I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at **UEM Kolkata**, graduating in 2027. I work across applied AI, cybersecurity, research, and backend engineering—usually where a model needs to become part of a dependable system.
 
-**Currently interested in:** multimodal AI · reliable LLM systems · threat intelligence · backend architecture
+`01 / Applied AI` &nbsp; `02 / Security engineering` &nbsp; `03 / Research` &nbsp; `04 / Backend systems`
 
 ---
 
-## Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / Applied AI**
-
-Machine learning, computer vision, NLP, forecasting, model evaluation, and practical LLM integrations.
-
-</td>
-<td width="50%" valign="top">
-
-**02 / Security engineering**
-
-Threat-intelligence workflows, multi-tenant applications, role-based access control, and normalized alert pipelines.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 / Research**
-
-Multimodal deepfake detection, voice biometrics, context-aware NLP, and trustworthy model evaluation.
-
-</td>
-<td width="50%" valign="top">
-
-**04 / Backend systems**
-
-FastAPI, Flask, Django, REST APIs, WebSockets, relational data modeling, and asynchronous processing.
-
-</td>
-</tr>
-</table>
-
 ## Selected work
 
+A few projects that represent the problems I like working on. The emphasis is on the system and the problem—not a wall of badges.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ThreatPurge
-**Cybersecurity · Multi-tenant platform**
+**01 — ThreatPurge**
 
-Threat-monitoring workflows spanning brand abuse, identity signals, third-party risk, attack-surface monitoring, and IOC validation.
+**Threat intelligence · Security platform**
+
+A multi-tenant threat-monitoring platform spanning brand abuse, identity signals, third-party risk, attack-surface monitoring, and IOC validation.
 
 <sub>Django · DRF · PostgreSQL · JWT · RBAC</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### Elaina Legal AI
+**02 — Elaina Legal AI**
+
 **Agentic AI · Legal workflows**
 
-An agent-first legal platform connecting client conversations, attorney workflows, structured matter intelligence, and background analysis.
+An agent-first legal intelligence platform connecting client conversations, attorney workflows, structured matter state, and asynchronous analysis.
 
 <sub>Python · Django · WebSockets · LLM workflows</sub>
 
@@ -86,85 +53,107 @@ An agent-first legal platform connecting client conversations, attorney workflow
 <tr>
 <td width="50%" valign="top">
 
-### [InvenHub](https://github.com/debjyoti71/invenhub_NextAI)
-**Data applications · Inventory**
+**03 — [InvenHub](https://github.com/debjyoti71/invenhub_NextAI)**
 
-Inventory and sales workflows built around operational data and application integration.
+**Data applications · Forecasting**
+
+Inventory and sales workflows that connect operational data with analytics and forecasting-oriented application logic.
 
 <sub>Python · Flask · Pandas · SQL</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [Sports Player Re-Identification](https://github.com/debjyoti71/Re-Identification_Sports_Footage)
+**04 — [Sports Player Re-Identification](https://github.com/debjyoti71/Re-Identification_Sports_Footage)**
+
 **Computer vision · Tracking**
 
-Explores player identity consistency across frames in sports footage.
+Explores how player identities can be maintained across frames in sports footage.
+
+<sub>Computer vision · Detection · Tracking</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Dev Timekeeper](https://github.com/debjyoti71/time_extension)
+**05 — [Dev Timekeeper](https://github.com/debjyoti71/time_extension)**
+
 **Developer tooling · VS Code**
 
-An offline-first productivity extension for tracking developer time.
+An offline-first extension for tracking developer time.
 
-[Open VSX listing ↗](https://open-vsx.org/extension/DebjyotiGhosh/dev-timekeeper)
+[Open VS Code extension listing ↗](https://open-vsx.org/extension/DebjyotiGhosh/dev-timekeeper)
 
 </td>
 <td width="50%" valign="top">
 
-### Deepfake detection & voice biometrics
+**06 — Deepfake detection & voice biometrics**
+
 **Applied research · Audio / vision**
 
-Research and prototypes exploring manipulated-media detection, multimodal signals, audio features, and speaker classification.
+Research and prototypes exploring manipulated-media detection, multimodal signals, MFCC-based audio features, and speaker classification.
 
-<sub>Computer vision · MFCC · TensorFlow</sub>
+<sub>TensorFlow · MFCC · Computer vision</sub>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/debjyoti71?tab=repositories">Browse all repositories →</a>
-</p>
+<p align="center"><a href="https://github.com/debjyoti71?tab=repositories">Explore all repositories →</a></p>
 
 ---
 
-## Toolkit
+## What I work with
 
-<p align="center">
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts" alt="Python, C, C++, C#, Java, JavaScript, TypeScript"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p align="center">
-  <strong>ML / Data</strong><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
+**AI / ML**
 
-<p align="center">
-  <strong>Backend / Infrastructure</strong><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,sqlite,docker,aws,git,github,linux" alt="FastAPI, Flask, Django, PostgreSQL, SQLite, Docker, AWS, Git, GitHub, Linux"/>
-</p>
+Python · PyTorch · TensorFlow · scikit-learn · OpenCV · Pandas · NLP · Computer vision · Time-series forecasting
 
-## Milestones
+</td>
+<td valign="top" width="50%">
 
-- **Amazon ML Summer School 2025** — completed
-- **IEEE INDICON 2025** — recognition for multimodal deepfake detection research
+**Backend / Infrastructure**
+
+FastAPI · Flask · Django · REST APIs · WebSockets · PostgreSQL · SQLite · Docker · AWS · Linux
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+
+Python · C · C++ · C# · Java · JavaScript · TypeScript
+
+</td>
+<td valign="top" width="50%">
+
+**Systems mindset**
+
+API design · Async workflows · Multi-tenancy · RBAC · Model evaluation · Data pipelines
+
+</td>
+</tr>
+</table>
+
+## Research & milestones
+
+- **Amazon ML Summer School 2025** — completed.
+- **IEEE INDICON 2025** — recognition for multimodal deepfake detection research.
 
 ---
 
 <div align="center">
 
-<a href="https://www.debjyoti-ghosh.in/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/debjyoti-ghosh-508bba281/">LinkedIn</a> ·
-<a href="mailto:debjyoti1ghosh@gmail.com">Email me</a>
+**Interested in practical AI, trustworthy systems, and engineering that holds up in production.**
 
-<sub>AI/ML · Cybersecurity · Research · Backend Engineering</sub>
+<a href="https://www.debjyoti-ghosh.in/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/debjyoti-ghosh-508bba281/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:debjyoti1ghosh@gmail.com">Email</a>
 
 </div>
