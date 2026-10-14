@@ -53,7 +53,7 @@ I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at
 
 ## <img src="https://img.shields.io/badge/03-FEATURED_BUILDS-0B1220?style=flat-square&labelColor=0891B2" alt="03 Featured builds"/>
 
-**Six featured builds.** Each project has its own full-width visual banner, with manually linked actions directly underneath. Davai replaces Player Re-Identification.
+**Six featured builds.** Each project has its own full-width visual banner, with manually linked project, release, and research actions directly underneath.
 
 <table>
 <tr>
