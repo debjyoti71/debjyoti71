@@ -53,38 +53,66 @@ I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at
 
 ## <img src="https://img.shields.io/badge/03-FEATURED_BUILDS-0B1220?style=flat-square&labelColor=0891B2" alt="03 Featured builds"/>
 
-**Selected systems, tools, and research.** Each card is a custom SVG asset with its own icon, color identity, and subtle motion. Click a card to explore.
+**Six featured builds.** Each project has its own full-width visual banner, with manually linked actions directly underneath. Davai replaces Player Re-Identification.
 
 <table>
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/debjyoti71"><img src="assets/projects/threatpurge-card.svg" width="100%" alt="ThreatPurge — multi-tenant security intelligence"/></a>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/projects/ThreatPurge%20Cybersecurity%20SOC%20Dashboard.png" width="100%" alt="ThreatPurge — cybersecurity operations and threat intelligence"/>
+
+<a href="https://www.threatpurge.com/"><img src="https://img.shields.io/badge/VIEW_PROJECT-THREATPURGE-07111F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0891B2" alt="View ThreatPurge project"/></a>
+
 </td>
-<td width="50%" align="center">
-<a href="https://github.com/debjyoti71"><img src="assets/projects/elaina-card.svg" width="100%" alt="Elaina Legal AI — agentic legal intelligence"/></a>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/projects/Elaina%20Legal%20AI_%20Smarter%20Legal%20Outcomes.png" width="100%" alt="Elaina Legal AI — agent-first legal intelligence platform"/>
+
+<a href="https://elaina-legal-ai-react.onrender.com/"><img src="https://img.shields.io/badge/VIEW_PROJECT-ELAINA_LEGAL_AI-07111F?style=for-the-badge&logo=googlechrome&logoColor=C084FC&labelColor=8B5CF6" alt="View Elaina Legal AI project"/></a>
+
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/debjyoti71/invenhub_NextAI"><img src="assets/projects/invenhub-card.svg" width="100%" alt="InvenHub and SalesVision — inventory intelligence and forecasting"/></a>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/projects/Neon%20Inventory%20Intelligence%20Hub.png" width="100%" alt="InvenHub and SalesVision — inventory intelligence and AI sales forecasting"/>
+
+<a href="https://github.com/debjyoti71/invenhub_NextAI"><img src="https://img.shields.io/badge/VIEW_PROJECT-INVENHUB_%2B_SALESVISION-07111F?style=for-the-badge&logo=github&logoColor=34D399&labelColor=059669" alt="View InvenHub and SalesVision project"/></a>
+
 </td>
-<td width="50%" align="center">
-<a href="https://github.com/debjyoti71/Re-Identification_Sports_Footage"><img src="assets/projects/player-reid-card.svg" width="100%" alt="Sports Player Re-Identification — computer vision and tracking"/></a>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/projects/Davai_%20Neon%20AI%20Healthcare%20Assistant.png" width="100%" alt="Davai — agentic AI desktop assistant with healthcare-focused guidance, model routing and memory"/>
+
+<a href="https://github.com/debjyoti71/DAVAI_desktop"><img src="https://img.shields.io/badge/VIEW_PROJECT-DAVAI-07111F?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=7C3AED" alt="View Davai project"/></a>
+
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/debjyoti71/time_extension"><img src="assets/projects/dev-timekeeper-card.svg" width="100%" alt="Dev Timekeeper — developer productivity extension"/></a>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/projects/Dev%20Timekeeper%20Neon%20Dashboard.png" width="100%" alt="Dev Timekeeper — offline-first developer productivity and time tracking"/>
+
+<a href="https://github.com/debjyoti71/time_extension"><img src="https://img.shields.io/badge/VIEW_PROJECT-DEV_TIMEKEEPER-07111F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0284C7" alt="View Dev Timekeeper source"/></a>
+&nbsp;
+<a href="https://open-vsx.org/extension/DebjyotiGhosh/dev-timekeeper"><img src="https://img.shields.io/badge/OPEN_VSX-EXTENSION-07111F?style=for-the-badge&logo=eclipseide&logoColor=22D3EE&labelColor=0369A1" alt="Open Dev Timekeeper on Open VSX"/></a>
+
 </td>
-<td width="50%" align="center">
-<a href="https://github.com/debjyoti71"><img src="assets/projects/multimodal-research-card.svg" width="100%" alt="Multimodal research — deepfake detection and voice biometrics"/></a>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/projects/Multimodal%20Deepfake%20Detection%20Dashboard.png" width="100%" alt="Multimodal deepfake detection — audio-visual analysis and media forensics"/>
+
+<a href="https://www.debjyoti-ghosh.in/"><img src="https://img.shields.io/badge/VIEW_PROJECT-RESEARCH_OVERVIEW-07111F?style=for-the-badge&logo=googlechrome&logoColor=F0ABFC&labelColor=BE185D" alt="View multimodal research overview"/></a>
+&nbsp;
+<a href="https://doi.org/10.1109/INDICON68490.2025.11392906"><img src="https://img.shields.io/badge/READ_PAPER-IEEE_INDICON_2025-07111F?style=for-the-badge&logo=ieee&logoColor=F0ABFC&labelColor=9D174D" alt="Read the IEEE INDICON 2025 multimodal deepfake detection paper"/></a>
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<a href="https://open-vsx.org/extension/DebjyotiGhosh/dev-timekeeper"><img src="https://img.shields.io/badge/DEV_TIMEKEEPER-OPEN_VSX-0B1220?style=for-the-badge&logo=eclipseide&logoColor=22D3EE" alt="Dev Timekeeper on Open VSX"/></a>
+<a href="https://www.debjyoti-ghosh.in/"><img src="https://img.shields.io/badge/RESEARCH_PAPERS-PUBLICATIONS-0B1220?style=for-the-badge&logo=googlescholar&logoColor=22D3EE" alt="Research papers and publications"/></a>
 <a href="https://github.com/debjyoti71?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all repositories"/></a>
 
 </div>
