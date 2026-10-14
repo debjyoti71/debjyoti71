@@ -28,6 +28,12 @@ I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at
 - ⚙️ **Engineering:** APIs, asynchronous processing, multi-tenant architecture, and data pipelines
 - 🎯 **Principle:** ship the system, measure the result, understand the failure modes
 
+<div align="center">
+
+<img src="assets/animations/ai-engineer-terminal-boot.svg" width="100%" alt="Animated AI engineer terminal boot sequence"/>
+
+</div>
+
 ## <img src="https://img.shields.io/badge/02-ENGINEERING_FOCUS-0B1220?style=flat-square&labelColor=0891B2" alt="02 Engineering focus"/>
 
 <div align="center">
@@ -48,6 +54,12 @@ I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+
+<img src="assets/animations/living-data-stream-divider.svg" width="100%" alt="Animated cyan living data stream divider"/>
 
 </div>
 
