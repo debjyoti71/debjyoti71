@@ -120,7 +120,15 @@ I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at
 
 </div>
 
-## <img src="https://img.shields.io/badge/06-MILESTONES-0B1220?style=flat-square&labelColor=0891B2" alt="06 Milestones"/>
+## <img src="https://img.shields.io/badge/06-CONTRIBUTION_SNAKE-0B1220?style=flat-square&labelColor=0891B2" alt="06 Contribution snake"/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/debjyoti71/debjyoti71/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+## <img src="https://img.shields.io/badge/07-MILESTONES-0B1220?style=flat-square&labelColor=0891B2" alt="06 Milestones"/>
 
 <div align="center">
 
