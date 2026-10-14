@@ -124,10 +124,6 @@ I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debjyoti71&theme=github_dark" width="100%" alt="GitHub contribution activity by date"/>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/debjyoti71/debjyoti71/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving across the GitHub contribution grid"/>
 
 </div>
