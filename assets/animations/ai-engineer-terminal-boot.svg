@@ -1,28 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-labelledby="title desc">
 <title id="title">AI Engineer Terminal Boot</title>
-<desc id="desc">Animated terminal boot sequence for Debjyoti Ghosh's AI engineering profile.</desc>
+<desc id="desc">Animated AI engineering terminal with boot logs, model orchestration, memory, tool runtime and research systems.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
-  <linearGradient id="edge"><stop stop-color="#0891b2"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b16"/><stop offset=".55" stop-color="#091525"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0891b2"/><stop offset=".52" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0891b2"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#193047" stroke-width=".7" opacity=".42"/></pattern>
+  <clipPath id="clip"><rect x="2" y="2" width="1096" height="266" rx="17"/></clipPath>
 </defs>
-<rect x="2" y="2" width="956" height="220" rx="15" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
-<rect x="3" y="3" width="954" height="37" rx="14" fill="#101e30"/>
-<circle cx="24" cy="21" r="5" fill="#fb7185"/><circle cx="42" cy="21" r="5" fill="#fbbf24"/><circle cx="60" cy="21" r="5" fill="#34d399"/>
-<text x="84" y="26" font-family="monospace" font-size="14" fill="#94a3b8" letter-spacing="2">DEBJYOTI // AI ENGINEERING TERMINAL</text>
-<text x="28" y="72" font-family="monospace" font-size="17" fill="#22d3ee">&gt; booting debjyoti.ai <tspan fill="#94a3b8">...</tspan></text>
-<text x="28" y="108" font-family="monospace" font-size="17" fill="#a5f3fc" opacity="0"> &gt; loading models: ML / LLM / CV
-  <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.14;.22;.72;.9;1" dur="5s" repeatCount="indefinite"/>
-</text>
-<text x="28" y="144" font-family="monospace" font-size="17" fill="#a5f3fc" opacity="0">&gt; initializing agent workflows
-  <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;.28;.38;.46;.9;1" dur="5s" repeatCount="indefinite"/>
-</text>
-<text x="28" y="180" font-family="monospace" font-size="17" fill="#a5f3fc" opacity="0">&gt; research pipeline: READY
-  <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;.45;.54;.62;.7;.9;1" dur="5s" repeatCount="indefinite"/>
-</text>
-<rect x="282" y="164" width="10" height="19" rx="2" fill="#22d3ee" filter="url(#glow)">
-  <animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/>
-  <animate attributeName="x" values="282;282;510;510" keyTimes="0;.6;.72;1" dur="5s" repeatCount="indefinite"/>
-</rect>
-<text x="930" y="199" text-anchor="end" font-family="monospace" font-size="12" fill="#64748b">SYSTEM STATUS // <tspan fill="#34d399">ONLINE</tspan></text>
+<g clip-path="url(#clip)">
+  <rect width="1100" height="270" fill="url(#bg)"/>
+  <rect width="1100" height="270" fill="url(#grid)" opacity=".45"/>
+  <rect x="2" y="2" width="1096" height="266" rx="17" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="3" y="3" width="1094" height="43" rx="15" fill="#101d30"/>
+  <path d="M3 32 Q3 46 18 46 H1082 Q1097 46 1097 32" fill="#101d30"/>
+  <circle cx="25" cy="24" r="5.5" fill="#fb7185"/>
+  <circle cx="44" cy="24" r="5.5" fill="#fbbf24"/>
+  <circle cx="63" cy="24" r="5.5" fill="#34d399"/>
+  <text x="88" y="29" font-family="monospace" font-size="13" fill="#a7b9ce" letter-spacing="2">DEBJYOTI<tspan fill="#22d3ee"> //</tspan> AI ENGINEERING TERMINAL</text>
+  <rect x="890" y="13" width="174" height="23" rx="11.5" fill="#052e2b" stroke="#065f54"/>
+  <circle cx="906" cy="24.5" r="3.5" fill="#34d399" filter="url(#glow)"/>
+  <text x="917" y="28.5" font-family="monospace" font-size="10.5" fill="#6ee7b7" letter-spacing="1.2">SESSION ACTIVE</text>
+
+  <text x="28" y="73" font-family="monospace" font-size="13" fill="#64748b" letter-spacing="1.5">BOOT SEQUENCE <tspan fill="#1e7490">/</tspan> 01</text>
+  <text x="28" y="101" font-family="monospace" font-size="16" fill="#22d3ee">&gt; <tspan fill="#e2f7ff">initialize_profile</tspan><tspan fill="#94a3b8"> --mode=systems</tspan></text>
+  <rect x="28" y="115" width="5" height="5" rx="1" fill="#34d399"/>
+  <text x="43" y="121" font-family="monospace" font-size="13.5" fill="#a7c6db" opacity="0">[00:01] Loading AI stack <tspan fill="#22d3ee">ML / LLM / CV</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.08;.16;.74;.92;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <rect x="28" y="145" width="5" height="5" rx="1" fill="#34d399" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.21;.29;.74;.92;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="43" y="151" font-family="monospace" font-size="13.5" fill="#a7c6db" opacity="0">[00:02] Starting agent orchestrator <tspan fill="#c4b5fd">graph / tools / routing</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.21;.29;.74;.92;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <rect x="28" y="175" width="5" height="5" rx="1" fill="#34d399" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.35;.43;.74;.92;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="43" y="181" font-family="monospace" font-size="13.5" fill="#a7c6db" opacity="0">[00:03] Connecting memory &amp; knowledge <tspan fill="#22d3ee">SQLite / retrieval</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.35;.43;.74;.92;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <rect x="28" y="205" width="5" height="5" rx="1" fill="#34d399" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.49;.57;.74;.92;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="43" y="211" font-family="monospace" font-size="13.5" fill="#a7c6db" opacity="0">[00:04] Research pipeline <tspan fill="#34d399">READY</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;.49;.57;.74;.92;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+  <rect x="28" y="230" width="570" height="2.5" rx="1.25" fill="#142a3d"/>
+  <rect x="28" y="230" width="210" height="2.5" rx="1.25" fill="url(#bar)" filter="url(#glow)">
+    <animate attributeName="width" values="28;210;420;542;28" keyTimes="0;.28;.56;.78;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="242" y="198" width="8" height="16" rx="1.5" fill="#22d3ee" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0;1" dur=".85s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="242;242;530;530" keyTimes="0;.55;.76;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <path d="M635 61V242" stroke="#24384d" stroke-width="1"/>
+  <text x="666" y="73" font-family="monospace" font-size="13" fill="#64748b" letter-spacing="1.5">SYSTEM MODULES <tspan fill="#1e7490">/</tspan> 04</text>
+  <rect x="662" y="88" width="196" height="55" rx="9" fill="#0b1b2a" stroke="#164e63"/>
+  <circle cx="680" cy="106" r="4" fill="#22d3ee" filter="url(#glow)"/>
+  <text x="693" y="110" font-family="monospace" font-size="11.5" fill="#d9f7ff">MODEL ROUTER</text>
+  <text x="679" y="130" font-family="monospace" font-size="10.5" fill="#5eead4">MULTI-PROVIDER READY</text>
+  <rect x="871" y="88" width="199" height="55" rx="9" fill="#11172c" stroke="#433778"/>
+  <circle cx="889" cy="106" r="4" fill="#a78bfa" filter="url(#glow)"/>
+  <text x="902" y="110" font-family="monospace" font-size="11.5" fill="#e9e3ff">MEMORY GRAPH</text>
+  <text x="888" y="130" font-family="monospace" font-size="10.5" fill="#c4b5fd">CONTEXT PRESERVED</text>
+  <rect x="662" y="154" width="196" height="55" rx="9" fill="#0b1b2a" stroke="#164e63"/>
+  <circle cx="680" cy="172" r="4" fill="#34d399" filter="url(#glow)"/>
+  <text x="693" y="176" font-family="monospace" font-size="11.5" fill="#d9f7ff">TOOL RUNTIME</text>
+  <text x="679" y="196" font-family="monospace" font-size="10.5" fill="#6ee7b7">WORKFLOWS STANDING BY</text>
+  <rect x="871" y="154" width="199" height="55" rx="9" fill="#11172c" stroke="#433778"/>
+  <circle cx="889" cy="172" r="4" fill="#a78bfa" filter="url(#glow)"/>
+  <text x="902" y="176" font-family="monospace" font-size="11.5" fill="#e9e3ff">RESEARCH OPS</text>
+  <text x="888" y="196" font-family="monospace" font-size="10.5" fill="#c4b5fd">SEARCH / RETRIEVE / SYNTHESIZE</text>
+  <path d="M662 224H1070" stroke="#1d3448" stroke-width="1"/>
+  <text x="662" y="246" font-family="monospace" font-size="10.5" fill="#64748b">PYTHON</text>
+  <circle cx="719" cy="242" r="2" fill="#22d3ee"/>
+  <text x="731" y="246" font-family="monospace" font-size="10.5" fill="#64748b">AGENTIC AI</text>
+  <circle cx="812" cy="242" r="2" fill="#22d3ee"/>
+  <text x="824" y="246" font-family="monospace" font-size="10.5" fill="#64748b">SYSTEMS THINKING</text>
+  <rect x="658" y="258" width="420" height="2" fill="url(#beam)" opacity=".9" filter="url(#glow)">
+    <animate attributeName="x" values="658;780;658" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</g>
 </svg>
