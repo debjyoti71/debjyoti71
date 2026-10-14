@@ -13,7 +13,7 @@
 <a href="mailto:debjyoti1ghosh@gmail.com"><img src="https://img.shields.io/badge/CONTACT-07111F?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Contact"/></a>
 <a href="https://github.com/debjyoti71?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-07111F?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Repositories"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=debjyoti71&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/PROFILE-OPEN_TO_COLLABORATION-0891B2?style=flat-square&logo=github&logoColor=white" alt="Open to collaboration"/>
 
 </div>
 
@@ -120,11 +120,15 @@ I'm **Debjyoti Ghosh**, a Computer Science and Information Technology student at
 
 </div>
 
-## <img src="https://img.shields.io/badge/06-CONTRIBUTION_SNAKE-0B1220?style=flat-square&labelColor=0891B2" alt="06 Contribution snake"/>
+## <img src="https://img.shields.io/badge/06-CONTRIBUTION_ACTIVITY-0B1220?style=flat-square&labelColor=0891B2" alt="06 Contribution activity"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/debjyoti71/debjyoti71/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debjyoti71&theme=github_dark" width="100%" alt="GitHub contribution activity by date"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/debjyoti71/debjyoti71/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving across the GitHub contribution grid"/>
 
 </div>
 
